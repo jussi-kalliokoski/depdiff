@@ -1,5 +1,7 @@
 # depdiff
 
+[![Build Status](https://travis-ci.org/jussi-kalliokoski/depdiff.png?branch=master)](https://travis-ci.org/jussi-kalliokoski/depdiff)
+
 I kept running into a problem where stuff I commited did not work on a build machine or someone else's computer, and quite often the problem turned out to be that my npm dependencies had changed.
 
 To repair the issue, I made this small tool that allows you to keep track of those changes to immediately see what might have caused the issues.
