@@ -1,0 +1,10 @@
+[{
+  "path": "node_modules/cat/package.json",
+  "version": "1.2.3"
+}, {
+  "path": "node_modules/foo/package.json",
+  "version": "2.5.1"
+}, {
+  "path": "node_modules/bar/bower.json",
+  "version": "5.1.42"
+}]
