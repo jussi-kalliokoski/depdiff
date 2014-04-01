@@ -52,8 +52,8 @@ describe("lib", function () {
             changes[3].path.should.equal("node_modules/dog/package.json");
             changes[3].version.should.equal("4.2.7");
             changes[3].type.should.equal("new");
-            changes[4].path.should.equal("node_modules/foo/package.json");
-            changes[4].version.should.equal("2.5.1");
+            changes[4].path.should.equal("node_modules/issue-1/package.json");
+            changes[4].version.should.equal("ERROR: Unexpected end of input");
             changes[4].type.should.equal("new");
         });
     });
