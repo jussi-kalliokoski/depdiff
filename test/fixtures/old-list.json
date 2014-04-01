@@ -1,4 +1,7 @@
 [{
+  "path": "node_modules/00-issue-4/package.json",
+  "version": "1.2.3"
+}, {
   "path": "node_modules/cat/package.json",
   "version": "1.2.3"
 }, {
