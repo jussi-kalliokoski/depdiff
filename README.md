@@ -1,6 +1,6 @@
 # depdiff
 
-[![Build Status](https://travis-ci.org/jussi-kalliokoski/depdiff.png?branch=master)](https://travis-ci.org/jussi-kalliokoski/depdiff)
+[![Build Status](https://travis-ci.org/jussi-kalliokoski/depdiff.svg?branch=master)](https://travis-ci.org/jussi-kalliokoski/depdiff)
 [![Coverage Status](https://img.shields.io/coveralls/jussi-kalliokoski/depdiff.svg)](https://coveralls.io/r/jussi-kalliokoski/depdiff)
 
 I kept running into a problem where stuff I commited did not work on a build machine or someone else's computer, and quite often the problem turned out to be that my npm dependencies had changed.
