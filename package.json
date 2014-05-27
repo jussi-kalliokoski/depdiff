@@ -7,6 +7,10 @@
     "coveralls": "cat ./coverage/lcov.info | COVERALLS_SERVICE_NAME=\"travis-ci\" ./node_modules/.bin/coveralls",
     "test": "./node_modules/.bin/istanbul cover _mocha -- -R spec"
   },
+  "files": [
+    "lib",
+    "bin"
+  ],
   "bin": {
     "depdiff": "bin/depdiff.js"
   },
